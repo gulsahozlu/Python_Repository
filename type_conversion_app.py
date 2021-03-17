@@ -9,7 +9,7 @@ pi = 3.14
 alan = pi *(daireYaricap**2)
 cevre = 2*pi*daireYaricap
 
-print('Dairenin Alanı: ', alan)
+print('Dairenin Alanı: ', str(alan))
 
-print('Dairenin Çevresi:', cevre)
+print('Dairenin Çevresi:', str(cevre))
 
