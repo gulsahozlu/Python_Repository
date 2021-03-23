@@ -29,4 +29,4 @@ yas='25'
 
 print(f"My name is {isim} {soyisim} and I'm {yas} years old ") #fstring ile süslü parantez içine direkt degisken isimlerini yazabiliriz
 
-#test string formatlama
+
