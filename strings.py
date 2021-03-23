@@ -17,3 +17,10 @@ print(greeting[3:7]) #3.indexten başla 7.i indexe kadar git
 print(greeting[3:]) #3.indexten başla sonuna kadar yazdır
 print(greeting[:15]) #baştan başla 15. indexe kadar yaz
 print(greeting[2:40:4])  #2. indexten itibaren 4 karakterde bir 40. indexe kadar yazdır
+
+print(greeting[::-1]) #diziyi tersten yazdırır
+
+s= "12345" * 5
+
+print(s)
+print(s[::5])
